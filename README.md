@@ -1,4 +1,3 @@
-[![MasterHead](https://unsplash.com/photos/a-computer-screen-with-the-words-do-not-enter-on-it-yUkEToM0JPA)
 <h1 align="center">Hi 👋, I'm Meral Cihangirli</h1>
 <h3 align="center">A passionate Web developer from Turkey</h3>
 

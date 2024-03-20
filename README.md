@@ -28,3 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meralcihangirli&show_icons=true&locale=en" alt="meralcihangirli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meralcihangirli&" alt="meralcihangirli" /></p>
+<div align="center">
+    <img alt="snake eating my contribution" src="https://github.com/meralcihangirli/meralcihangirli/blob/output/github-contribution-grid-snake.svg">
+   <br>
+</div>
